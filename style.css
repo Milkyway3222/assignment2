@@ -1,0 +1,123 @@
+        body {
+            background-color: #AFDDE5;
+        }
+
+        .menu {
+            background-color: #003135;
+            display: flex;
+            justify-content: space-between;
+            margin-bottom: 10px;
+        }
+
+        .menu a{
+            color: white;
+            text-decoration: none;
+            margin: 10px;
+        }
+
+        #name {
+            color: white;
+            font-size: large;
+            margin: 10px;
+        }
+
+        #download{
+            color: white;
+            font-size: large;
+            margin: 10px;
+        }
+
+        .section {
+            background-color: #AFDDE5;
+            display: flex;
+            padding: 20px;
+        }
+        
+        #about {
+            background-color: #024950;
+            color: white;
+        }
+
+        #education{
+            background-color: #AFDDE5;
+            display: flex;
+            flex-direction: column;    
+        }
+    
+        
+        .firstSchool{
+            display: flex;
+            flex-direction: row;
+        }
+
+        .secondSchool{
+            display: flex;
+            flex-direction: row;          
+        }
+
+        .educationText{
+            margin-left: 15px;
+            color: #003135;
+        }
+
+        .skillBox{
+            background-color: #0FA4AF ;
+            flex: 1;
+        }
+
+        #experience{
+            background-color: #AFDDE5;
+            display: flex;
+            flex-direction: column;
+        }
+
+        .blogBox{
+            flex: 1;
+        }
+
+        #blog1{
+            background-color: #003135 ;
+            color: white;
+        }
+
+        #blog2{
+            background-color: #964734 ;
+            color: white;
+        }
+
+        #blog3{
+            background-color: #0FA4AF;
+            color: white;
+        }
+
+        #projects{
+            background-color: #024950;
+            color: white;
+        }
+
+        .projectBox{
+            display: flex;
+            flex-direction: column;
+        }
+      
+
+        .footer {
+            background-color: #003135;
+            color: white;
+            display: flex;
+            justify-content: center;
+            padding: 10px;
+            margin-top: 10px;
+        }
+
+        .footer a{
+            color:  white;
+            text-decoration: none;
+            margin-right: 40px;
+        }
+
+        .section img{
+            height: 200px;
+            width: 200px;
+            margin: 10px;
+        }
